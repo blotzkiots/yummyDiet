@@ -1,0 +1,56 @@
+*{
+	font-family: 'Poppins', sans-serif;
+}
+header{
+	weight: 100px;
+	
+}
+#header-logo{
+	height: 25px;
+}
+#no-style{
+	list-style: none;
+}
+#yd-video{
+	width:1100px;
+}
+
+.nav-links{
+	list-style: none;
+}
+#links-below{
+	font-weight: bolder;
+	justify-content: space-around;
+	align-content: center;
+}
+#links-below:hover{
+	text-decoration: none;
+}
+footer{
+	font-size: 11px;
+	color: gray;
+}
+#contact{
+	font-size: 12px;
+	font-weight: bold;
+}
+#yd-logo{
+	width:100px;
+	height:100px;
+}
+.icons{
+	width: 20px;
+	margin: 0px 5px;
+}
+
+#technoImg{
+	vertical-align: center;
+	width: 11px;
+}
+#techno{
+	color:#93a202;
+
+}
+#techno:hover{
+	text-decoration: none;
+}
